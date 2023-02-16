@@ -15,8 +15,7 @@
 |Gestione del ciclo di vita dell'applicazione| alcuni tool di GitOps offrono funzionalità per gestire l'intero ciclo di vita dell'applicazione, dalla creazione alla distribuzione, al monitoraggio e al ritiro.|
 |Gestione delle dipendenze| alcuni tool di GitOps includono funzionalità per gestire le dipendenze delle applicazioni, inclusi i pacchetti e le librerie esterne.|
 |Supporto per più lingue e framework| alcuni tool di GitOps sono in grado di gestire applicazioni scritte in diverse lingue di programmazione e basate su diversi framework.|
-|
-Integrazione con strumenti di sicurezza| alcuni tool di GitOps possono integrarsi con strumenti di sicurezza, come scanner di vulnerabilità e test di penetrazione, per garantire la sicurezza dell'infrastruttura e delle applicazioni.|
+|Integrazione con strumenti di sicurezza| alcuni tool di GitOps possono integrarsi con strumenti di sicurezza, come scanner di vulnerabilità e test di penetrazione, per garantire la sicurezza dell'infrastruttura e delle applicazioni.|
 |Automazione del rilascio| alcuni tool di GitOps offrono funzionalità di rilascio continuo, in cui il codice viene rilasciato automaticamente in produzione dopo che i test sono stati superati con successo.|
 |Supporto per multi-tenancy| alcuni tool di GitOps offrono funzionalità di multi-tenancy, consentendo a più team di sviluppo di lavorare su pipeline separate, senza interferenze tra loro.|
 |Controllo degli accessi granulare| alcuni tool di GitOps forniscono funzionalità di controllo degli accessi granulare, consentendo di assegnare permessi specifici a utenti e gruppi in base al loro ruolo all'interno dell'organizzazione.|
