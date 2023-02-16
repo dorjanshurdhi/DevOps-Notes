@@ -13,3 +13,17 @@
 |Multi-cloud deployments| some GitOps tools can handle deployment across multiple cloud providers or multiple Kubernetes clusters, providing greater flexibility and portability.|
 |Notifications and reports| some GitOps tools provide notification and reporting capabilities to track pipeline status, issues encountered, and actions taken.|
 |Application lifecycle management| some GitOps tools offer functionality to manage the entire application lifecycle, from creation to deployment to monitoring and retirement.|
+|Dependency Management| some GitOps tools include functionality to manage application dependencies, including packages and external libraries.|
+|Support for multiple languages and frameworks| some GitOps tools are able to handle applications written in different programming languages and based on different frameworks.|
+|Integration with security tools| some GitOps tools can integrate with security tools, such as vulnerability scanners and penetration tests, to ensure infrastructure and application security.|
+|Release automation| some GitOps tools offer rolling release capabilities, where code is automatically released into production after successful tests.|
+|Multi-tenancy support| some GitOps tools offer multi-tenancy capabilities, allowing multiple development teams to work on separate pipelines, without interfering with each other.|
+|Granular Access Control| some GitOps tools provide granular access control functionality, allowing you to assign specific permissions to users and groups based on their role within the organization. |
+|Compliance Monitoring| some GitOps tools offer compliance monitoring capabilities, allowing you to verify that your CI/CD pipelines and infrastructure meet your organization's security and governance standards.|
+|Resource Management| some GitOps tools include features to manage infrastructure resources, such as virtual machines, containers, and network services.|
+|Support for GitOps on non-Kubernetes platforms| while GitOps is often associated with Kubernetes, some GitOps tools offer capabilities to manage infrastructure and applications on other platforms, such as Amazon Web Services, Google Cloud Platform, and Microsoft Azure.|
+|Ease of use| some GitOps tools are designed to be easy to use, with an intuitive interface and streamlined user experience.|
+|Scalability| some GitOps tools can handle large amounts of pipeline and infrastructure, allowing you to easily scale as project needs.|
+|Modularity| some GitOps tools are designed to be modular, allowing you to integrate and customize functionality based on project needs. |
+|Versioning pipelines| some GitOps tools allow you to versionete pipelines, allowing you to easily monitor and manage changes made to pipelines over time.|
+|Rollback support| some GitOps tools offer rollback functionality, allowing you to go back to a previous version of the pipeline
