@@ -1,8 +1,8 @@
 ## DevOps Notes
 
->In this project you will find some notes on different DevOps technologies including:
+> **In this project you will find some notes on different DevOps technologies including:**
 
- - Kubernetes
+- Kubernetes
  - [GitOps](https://github.com/dorjanshurdhi/DevOps-Notes/tree/main/en/GitOps) 
  - Terraform
  -  Ansible
