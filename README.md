@@ -1,7 +1,6 @@
 ## DevOps Notes
 
-> In questo progetto troverete alcune note su diverse tecnologie di
-> DevOps tra cui:
+>In this project you will find some notes on different DevOps technologies including:
 
  - Kubernetes
  - [GitOps](https://github.com/dorjanshurdhi/DevOps-Notes/tree/main/en/GitOps) 
