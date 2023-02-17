@@ -29,3 +29,4 @@
 |Supporto per il rollback| alcuni tool di GitOps offrono funzionalità di rollback, consentendo di tornare a una versione precedente della pipeline o dell'applicazione in caso di problemi o errori.|
 |Automazione dei test| alcuni tool di GitOps possono automatizzare i test di unità, i test di integrazione e i test funzionali, consentendo di rilevare e risolvere i problemi più rapidamente.|
 |Integrazione continua| alcuni tool di GitOps includono funzionalità di integrazione continua, consentendo di integrare e testare continuamente il codice durante lo sviluppo.|
+|Integrazione con strumenti di test| alcuni tool di GitOps possono essere integrati con strumenti di test, come JUnit, Selenium e altri, per automatizzare i test di unità, i test di integrazione e i test funzionali.|
