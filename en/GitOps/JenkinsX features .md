@@ -21,7 +21,7 @@
 | Integration with security tools | Yes | JenkinsX allows integration with security tools like Anchore, Aqua Security, Sysdig Secure, Vault etc.|
 | Scalability | Yes | JenkinsX is highly scalable and easily supports horizontal scaling.|
 | Modularity and Flexibility | Yes | JenkinsX is highly modular and customizable to fit your organization's unique needs.|
-| Support on non-Kubernetes platforms | Yes | JenkinsX is focused on Kubernetes but can also run on other platforms such as Amazon ECS.|
+| Support on non-Kubernetes platforms | No | JenkinsX only supports Kubernetes as an orchestration platform. Its architecture is heavily based on Kubernetes and provides specific tools and features to simplify the use of Kubernetes for application deployment. However, JenkinsX supports several public cloud platforms such as AWS, GCP and Azure, which allow for running Kubernetes clusters.|
 | Dependency Management |Yes | JenkinsX manages project dependencies, including updates and unattended installations.|
 | Resource Management | Yes | JenkinsX allows automatic management of deployment resources, including scaling.|
 | Multi-tenancy support |Yes | JenkinsX supports creating and managing multiple workspaces for different teams or organizations.|
