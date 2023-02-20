@@ -6,5 +6,6 @@
  - [GitOps](https://github.com/dorjanshurdhi/DevOps-Notes/tree/main/en/GitOps) 
  - Terraform
  -  Ansible
- -  Nginx AWS
+ -  Nginx 
+ -  AWS
  -  Azure DevOps
